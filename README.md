@@ -111,4 +111,4 @@ tests/test_homework.py::TestGroup::test_group_model PASSED                      
 
 
 ## Разработчик
-[Александр Гетманов](https://github.com/SelfGenius)
+[Александр Гетманов](https://github.com/wurikavich)
