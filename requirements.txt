@@ -3,7 +3,7 @@ mixer==7.1.2
 pytest==6.2.5
 pytest-django==4.4.0
 pytest-pythonpath==0.7.3
-requests==2.26.0
+requests==2.31.0
 pillow==9.0.1
 six==1.16.0
 sorl-thumbnail==12.7.0
