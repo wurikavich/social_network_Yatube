@@ -4,7 +4,7 @@ pytest==6.2.5
 pytest-django==4.4.0
 pytest-pythonpath==0.7.3
 requests==2.26.0
-pillow==9.0.1
+pillow==10.2.0
 six==1.16.0
 sorl-thumbnail==12.7.0
 Faker==12.0.1
